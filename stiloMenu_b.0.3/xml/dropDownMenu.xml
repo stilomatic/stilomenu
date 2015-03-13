@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu>
+     <styles>
+       <style classType="it.quidcom.styles.TextStyle" id="textStyle" >
+            <property font="Verdana" size="12" over="0xFFFFFF" out="0xCCCCCC" />
+        </style>
+        <style classType="it.quidcom.styles.BackgroundStyle" id="background" >
+            <property over="0xFFCC00" out="0x000000" />
+        </style>
+    </styles> 
+    <behaviors>
+        <behavior classType="it.quidcom.behavior.AlphaBehavior" id="alphaAnim">
+            <property over="1" out="0.5" time="0.3"/>
+        </behavior>
+        <behavior classType="it.quidcom.behavior.SelectedBehavior" id="selected">
+            <property />
+        </behavior>
+    </behaviors>
+    <item classType="it.quidcom.menu.DropDownMenu" x="20" y="30" space="4">
+    <kids>
+    	<item classType="it.quidcom.menu.DropDownItem" styles="textStyle,background" behaviours="alphaAnim" label="Drop Down Selected value" />
+    	<item classType="it.quidcom.menu.MenuVertical" behaviors="selected" space="2">
+    	<kids>
+        	<item classType="it.quidcom.menu.BasicItem" styles="textStyle,background" behaviours="alphaAnim" id="0" uid="model" label="MODELLO 01" />
+	    	<item classType="it.quidcom.menu.BasicItem" styles="textStyle,background" behaviours="alphaAnim" id="1" uid="model" label="MODELLO 02" />
+        	<item classType="it.quidcom.menu.BasicItem" styles="textStyle,background" behaviours="alphaAnim" id="2" uid="model" label="MODELLO 03" />
+        	<item classType="it.quidcom.menu.BasicItem" styles="textStyle,background" behaviours="alphaAnim" id="3" uid="model" label="MODELLO 04" />
+        	<item classType="it.quidcom.menu.BasicItem" styles="textStyle,background" behaviours="alphaAnim" id="4" uid="model" label="MODELLO 05" />
+        	<item classType="it.quidcom.menu.BasicItem" styles="textStyle,background" behaviours="alphaAnim" id="4" uid="model" label="MODELLO 05" />
+    	</kids>
+	</item>
+	</kids>
+</item>
+</menu>

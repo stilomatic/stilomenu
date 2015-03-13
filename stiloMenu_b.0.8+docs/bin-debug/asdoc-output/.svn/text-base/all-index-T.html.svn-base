@@ -1,0 +1,166 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>T Index</title>
+<link rel="stylesheet" href="style.css" type="text/css" media="screen">
+<link rel="stylesheet" href="print.css" type="text/css" media="print">
+</head>
+<body>
+<script type="text/javascript" language="javascript" src="asdoc.js"></script><script type="text/javascript" language="javascript" src="cookies.js"></script><script type="text/javascript" language="javascript">
+<!--
+				asdocTitle = 'T Index - API Documentation';
+				var baseRef = '';
+				window.onload = configPage;
+			--></script>
+<table style="display:none" id="titleTable" cellspacing="0" cellpadding="0" class="titleTable">
+<tr>
+<td align="left" class="titleTableTitle">API Documentation</td><td align="right" class="titleTableTopNav"><a onclick="loadClassListFrame('all-classes.html')" href="package-summary.html">All&nbsp;Packages</a>&nbsp;|&nbsp;<a onclick="loadClassListFrame('all-classes.html')" href="class-summary.html">All&nbsp;Classes</a>&nbsp;|&nbsp;<a href="index.html?all-index-T.html&amp;index-list.html" id="framesLink1">Frames</a><a onclick="parent.location=document.location" href="" style="display:none" id="noFramesLink1">No&nbsp;Frames</a></td><td rowspan="3" align="right" class="titleTableLogo"><img alt="Adobe Logo" title="Adobe Logo" class="logoImage" src="images/logo.jpg"></td>
+</tr>
+<tr class="titleTableRow2">
+<td align="left" id="subTitle" class="titleTableSubTitle">T&nbsp;Index</td><td align="right" id="subNav" class="titleTableSubNav"></td>
+</tr>
+<tr class="titleTableRow3">
+<td colspan="2">&nbsp;</td>
+</tr>
+</table>
+<script type="text/javascript" language="javascript">
+<!--
+if (!isEclipse() || window.name != ECLIPSE_FRAME_NAME) {titleBar_setSubTitle("T Index"); titleBar_setSubNav(false,false,false,false,false,false,false,false,false,false,false,false,false,false);}
+--></script>
+<div class="MainContent">
+<br>
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td colspan="2"><a name="T"></a><a onclick="javascript:loadClassListFrame('index-list.html');" href="all-index-A.html">A</a>&nbsp;&nbsp;<a onclick="javascript:loadClassListFrame('index-list.html');" href="all-index-B.html">B</a>&nbsp;&nbsp;<a onclick="javascript:loadClassListFrame('index-list.html');" href="all-index-C.html">C</a>&nbsp;&nbsp;<a onclick="javascript:loadClassListFrame('index-list.html');" href="all-index-D.html">D</a>&nbsp;&nbsp;<a onclick="javascript:loadClassListFrame('index-list.html');" href="all-index-E.html">E</a>&nbsp;&nbsp;<a onclick="javascript:loadClassListFrame('index-list.html');" href="all-index-F.html">F</a>&nbsp;&nbsp;<a onclick="javascript:loadClassListFrame('index-list.html');" href="all-index-G.html">G</a>&nbsp;&nbsp;<a onclick="javascript:loadClassListFrame('index-list.html');" href="all-index-H.html">H</a>&nbsp;&nbsp;<a onclick="javascript:loadClassListFrame('index-list.html');" href="all-index-I.html">I</a>&nbsp;&nbsp;<a onclick="javascript:loadClassListFrame('index-list.html');" href="all-index-J.html">J</a>&nbsp;&nbsp;<a onclick="javascript:loadClassListFrame('index-list.html');" href="all-index-K.html">K</a>&nbsp;&nbsp;<a onclick="javascript:loadClassListFrame('index-list.html');" href="all-index-L.html">L</a>&nbsp;&nbsp;<a onclick="javascript:loadClassListFrame('index-list.html');" href="all-index-M.html">M</a>&nbsp;&nbsp;<a onclick="javascript:loadClassListFrame('index-list.html');" href="all-index-N.html">N</a>&nbsp;&nbsp;<a onclick="javascript:loadClassListFrame('index-list.html');" href="all-index-O.html">O</a>&nbsp;&nbsp;<a onclick="javascript:loadClassListFrame('index-list.html');" href="all-index-P.html">P</a>&nbsp;&nbsp;<a onclick="javascript:loadClassListFrame('index-list.html');" href="all-index-Q.html">Q</a>&nbsp;&nbsp;<a onclick="javascript:loadClassListFrame('index-list.html');" href="all-index-R.html">R</a>&nbsp;&nbsp;<a onclick="javascript:loadClassListFrame('index-list.html');" href="all-index-S.html">S</a>&nbsp;&nbsp;<font style="bold" size="10px" color="black">T</font>&nbsp;&nbsp;<a onclick="javascript:loadClassListFrame('index-list.html');" href="all-index-U.html">U</a>&nbsp;&nbsp;<a onclick="javascript:loadClassListFrame('index-list.html');" href="all-index-V.html">V</a>&nbsp;&nbsp;<a onclick="javascript:loadClassListFrame('index-list.html');" href="all-index-W.html">W</a>&nbsp;&nbsp;<a onclick="javascript:loadClassListFrame('index-list.html');" href="all-index-X.html">X</a>&nbsp;&nbsp;<a onclick="javascript:loadClassListFrame('index-list.html');" href="all-index-Y.html">Y</a>&nbsp;&nbsp;<a onclick="javascript:loadClassListFrame('index-list.html');" href="all-index-Z.html">Z</a>&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td colspan="2" class="idxrow"><a onclick="javascript:loadClassListFrame('it/quidcom/styles/class-list.html');" href="it/quidcom/styles/TextStyle.html#tabStops">tabStops</a> &mdash; Property in class it.quidcom.styles.<a onclick="javascript:loadClassListFrame('it/quidcom/styles/class-list.html');" href="it/quidcom/styles/TextStyle.html">TextStyle</a></td>
+</tr>
+<tr>
+<td width="20"></td><td></td>
+</tr>
+<tr>
+<td colspan="2" class="idxrow"><a onclick="javascript:loadClassListFrame('it/quidcom/behavior/class-list.html');" href="it/quidcom/behavior/AbstractBehavior.html#target">target</a> &mdash; Property in class it.quidcom.behavior.<a onclick="javascript:loadClassListFrame('it/quidcom/behavior/class-list.html');" href="it/quidcom/behavior/AbstractBehavior.html">AbstractBehavior</a></td>
+</tr>
+<tr>
+<td width="20"></td><td></td>
+</tr>
+<tr>
+<td colspan="2" class="idxrow"><a onclick="javascript:loadClassListFrame('it/quidcom/behavior/class-list.html');" href="it/quidcom/behavior/AlphaBehavior.html#target">target</a> &mdash; Property in class it.quidcom.behavior.<a onclick="javascript:loadClassListFrame('it/quidcom/behavior/class-list.html');" href="it/quidcom/behavior/AlphaBehavior.html">AlphaBehavior</a></td>
+</tr>
+<tr>
+<td width="20"></td><td></td>
+</tr>
+<tr>
+<td colspan="2" class="idxrow"><a onclick="javascript:loadClassListFrame('it/quidcom/behavior/class-list.html');" href="it/quidcom/behavior/ChangeTextColor.html#target">target</a> &mdash; Property in class it.quidcom.behavior.<a onclick="javascript:loadClassListFrame('it/quidcom/behavior/class-list.html');" href="it/quidcom/behavior/ChangeTextColor.html">ChangeTextColor</a></td>
+</tr>
+<tr>
+<td width="20"></td><td></td>
+</tr>
+<tr>
+<td colspan="2" class="idxrow"><a onclick="javascript:loadClassListFrame('it/quidcom/behavior/class-list.html');" href="it/quidcom/behavior/DragBehavior.html#target">target</a> &mdash; Property in class it.quidcom.behavior.<a onclick="javascript:loadClassListFrame('it/quidcom/behavior/class-list.html');" href="it/quidcom/behavior/DragBehavior.html">DragBehavior</a></td>
+</tr>
+<tr>
+<td width="20"></td><td></td>
+</tr>
+<tr>
+<td colspan="2" class="idxrow"><a onclick="javascript:loadClassListFrame('it/quidcom/behavior/class-list.html');" href="it/quidcom/behavior/DragFrictionBehavior.html#target">target</a> &mdash; Property in class it.quidcom.behavior.<a onclick="javascript:loadClassListFrame('it/quidcom/behavior/class-list.html');" href="it/quidcom/behavior/DragFrictionBehavior.html">DragFrictionBehavior</a></td>
+</tr>
+<tr>
+<td width="20"></td><td></td>
+</tr>
+<tr>
+<td colspan="2" class="idxrow"><a onclick="javascript:loadClassListFrame('it/quidcom/behavior/class-list.html');" href="it/quidcom/behavior/IBehavior.html#target">target</a> &mdash; Property in interface it.quidcom.behavior.<a onclick="javascript:loadClassListFrame('it/quidcom/behavior/class-list.html');" href="it/quidcom/behavior/IBehavior.html">IBehavior</a></td>
+</tr>
+<tr>
+<td width="20"></td><td></td>
+</tr>
+<tr>
+<td colspan="2" class="idxrow"><a onclick="javascript:loadClassListFrame('it/quidcom/behavior/class-list.html');" href="it/quidcom/behavior/LabelToggle.html#target">target</a> &mdash; Property in class it.quidcom.behavior.<a onclick="javascript:loadClassListFrame('it/quidcom/behavior/class-list.html');" href="it/quidcom/behavior/LabelToggle.html">LabelToggle</a></td>
+</tr>
+<tr>
+<td width="20"></td><td></td>
+</tr>
+<tr>
+<td colspan="2" class="idxrow"><a onclick="javascript:loadClassListFrame('it/quidcom/behavior/class-list.html');" href="it/quidcom/behavior/SelectedBehavior.html#target">target</a> &mdash; Property in class it.quidcom.behavior.<a onclick="javascript:loadClassListFrame('it/quidcom/behavior/class-list.html');" href="it/quidcom/behavior/SelectedBehavior.html">SelectedBehavior</a></td>
+</tr>
+<tr>
+<td width="20"></td><td></td>
+</tr>
+<tr>
+<td colspan="2" class="idxrow"><a onclick="javascript:loadClassListFrame('it/quidcom/behavior/class-list.html');" href="it/quidcom/behavior/TendToPointBehavior.html#target">target</a> &mdash; Property in class it.quidcom.behavior.<a onclick="javascript:loadClassListFrame('it/quidcom/behavior/class-list.html');" href="it/quidcom/behavior/TendToPointBehavior.html">TendToPointBehavior</a></td>
+</tr>
+<tr>
+<td width="20"></td><td></td>
+</tr>
+<tr>
+<td colspan="2" class="idxrow"><a onclick="javascript:loadClassListFrame('it/quidcom/behavior/class-list.html');" href="it/quidcom/behavior/ZSortBehavior.html#target">target</a> &mdash; Property in class it.quidcom.behavior.<a onclick="javascript:loadClassListFrame('it/quidcom/behavior/class-list.html');" href="it/quidcom/behavior/ZSortBehavior.html">ZSortBehavior</a></td>
+</tr>
+<tr>
+<td width="20"></td><td></td>
+</tr>
+<tr>
+<td colspan="2" class="idxrow"><a onclick="javascript:loadClassListFrame('it/quidcom/styles/class-list.html');" href="it/quidcom/styles/TextStyle.html#target">target</a> &mdash; Property in class it.quidcom.styles.<a onclick="javascript:loadClassListFrame('it/quidcom/styles/class-list.html');" href="it/quidcom/styles/TextStyle.html">TextStyle</a></td>
+</tr>
+<tr>
+<td width="20"></td><td></td>
+</tr>
+<tr>
+<td colspan="2" class="idxrow"><a onclick="javascript:loadClassListFrame('it/quidcom/behavior/class-list.html');" href="it/quidcom/behavior/TendToPointBehavior.html">TendToPointBehavior</a> &mdash; Class in package <a onclick="javascript:loadClassListFrame('it/quidcom/behavior/class-list.html');" href="it/quidcom/behavior/package-detail.html">it.quidcom.behavior</a></td>
+</tr>
+<tr>
+<td width="20"></td><td> 
+ The TendToPoint class, manage the last clicked item vista status.</td>
+</tr>
+<tr>
+<td colspan="2" class="idxrow"><a onclick="javascript:loadClassListFrame('it/quidcom/behavior/class-list.html');" href="it/quidcom/behavior/TendToPointBehavior.html#TendToPointBehavior()">TendToPointBehavior</a>(_properties) &mdash; Constructor in class it.quidcom.behavior.<a onclick="javascript:loadClassListFrame('it/quidcom/behavior/class-list.html');" href="it/quidcom/behavior/TendToPointBehavior.html">TendToPointBehavior</a></td>
+</tr>
+<tr>
+<td width="20"></td><td></td>
+</tr>
+<tr>
+<td colspan="2" class="idxrow"><a onclick="javascript:loadClassListFrame('it/quidcom/menu/graphics/class-list.html');" href="it/quidcom/menu/graphics/BasicLabel.html#textColor()">textColor</a>(color) &mdash; Method in class it.quidcom.menu.graphics.<a onclick="javascript:loadClassListFrame('it/quidcom/menu/graphics/class-list.html');" href="it/quidcom/menu/graphics/BasicLabel.html">BasicLabel</a></td>
+</tr>
+<tr>
+<td width="20"></td><td></td>
+</tr>
+<tr>
+<td colspan="2" class="idxrow"><a onclick="javascript:loadClassListFrame('it/quidcom/styles/class-list.html');" href="it/quidcom/styles/TextStyle.html">TextStyle</a> &mdash; Class in package <a onclick="javascript:loadClassListFrame('it/quidcom/styles/class-list.html');" href="it/quidcom/styles/package-detail.html">it.quidcom.styles</a></td>
+</tr>
+<tr>
+<td width="20"></td><td></td>
+</tr>
+<tr>
+<td colspan="2" class="idxrow"><a onclick="javascript:loadClassListFrame('it/quidcom/styles/class-list.html');" href="it/quidcom/styles/TextStyle.html#TextStyle()">TextStyle</a>(data) &mdash; Constructor in class it.quidcom.styles.<a onclick="javascript:loadClassListFrame('it/quidcom/styles/class-list.html');" href="it/quidcom/styles/TextStyle.html">TextStyle</a></td>
+</tr>
+<tr>
+<td width="20"></td><td> 
+  The TextStyle class, manage a text format style.</td>
+</tr>
+<tr>
+<td colspan="2" class="idxrow"><a onclick="javascript:loadClassListFrame('it/quidcom/menu/class-list.html');" href="it/quidcom/menu/CardAssetItem.html#trasform()">trasform</a>() &mdash; Method in class it.quidcom.menu.<a onclick="javascript:loadClassListFrame('it/quidcom/menu/class-list.html');" href="it/quidcom/menu/CardAssetItem.html">CardAssetItem</a></td>
+</tr>
+<tr>
+<td width="20"></td><td></td>
+</tr>
+<tr>
+<td colspan="2" class="idxrow"><a onclick="javascript:loadClassListFrame('caurina/transitions/class-list.html');" href="caurina/transitions/Tweener.html">Tweener</a> &mdash; Class in package <a onclick="javascript:loadClassListFrame('caurina/transitions/class-list.html');" href="caurina/transitions/package-detail.html">caurina.transitions</a></td>
+</tr>
+<tr>
+<td width="20"></td><td></td>
+</tr>
+<tr>
+<td style="padding-bottom:20px" colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2"><a onclick="javascript:loadClassListFrame('index-list.html');" href="all-index-A.html">A</a>&nbsp;&nbsp;<a onclick="javascript:loadClassListFrame('index-list.html');" href="all-index-B.html">B</a>&nbsp;&nbsp;<a onclick="javascript:loadClassListFrame('index-list.html');" href="all-index-C.html">C</a>&nbsp;&nbsp;<a onclick="javascript:loadClassListFrame('index-list.html');" href="all-index-D.html">D</a>&nbsp;&nbsp;<a onclick="javascript:loadClassListFrame('index-list.html');" href="all-index-E.html">E</a>&nbsp;&nbsp;<a onclick="javascript:loadClassListFrame('index-list.html');" href="all-index-F.html">F</a>&nbsp;&nbsp;<a onclick="javascript:loadClassListFrame('index-list.html');" href="all-index-G.html">G</a>&nbsp;&nbsp;<a onclick="javascript:loadClassListFrame('index-list.html');" href="all-index-H.html">H</a>&nbsp;&nbsp;<a onclick="javascript:loadClassListFrame('index-list.html');" href="all-index-I.html">I</a>&nbsp;&nbsp;<a onclick="javascript:loadClassListFrame('index-list.html');" href="all-index-J.html">J</a>&nbsp;&nbsp;<a onclick="javascript:loadClassListFrame('index-list.html');" href="all-index-K.html">K</a>&nbsp;&nbsp;<a onclick="javascript:loadClassListFrame('index-list.html');" href="all-index-L.html">L</a>&nbsp;&nbsp;<a onclick="javascript:loadClassListFrame('index-list.html');" href="all-index-M.html">M</a>&nbsp;&nbsp;<a onclick="javascript:loadClassListFrame('index-list.html');" href="all-index-N.html">N</a>&nbsp;&nbsp;<a onclick="javascript:loadClassListFrame('index-list.html');" href="all-index-O.html">O</a>&nbsp;&nbsp;<a onclick="javascript:loadClassListFrame('index-list.html');" href="all-index-P.html">P</a>&nbsp;&nbsp;<a onclick="javascript:loadClassListFrame('index-list.html');" href="all-index-Q.html">Q</a>&nbsp;&nbsp;<a onclick="javascript:loadClassListFrame('index-list.html');" href="all-index-R.html">R</a>&nbsp;&nbsp;<a onclick="javascript:loadClassListFrame('index-list.html');" href="all-index-S.html">S</a>&nbsp;&nbsp;<font style="bold" size="10px" color="black">T</font>&nbsp;&nbsp;<a onclick="javascript:loadClassListFrame('index-list.html');" href="all-index-U.html">U</a>&nbsp;&nbsp;<a onclick="javascript:loadClassListFrame('index-list.html');" href="all-index-V.html">V</a>&nbsp;&nbsp;<a onclick="javascript:loadClassListFrame('index-list.html');" href="all-index-W.html">W</a>&nbsp;&nbsp;<a onclick="javascript:loadClassListFrame('index-list.html');" href="all-index-X.html">X</a>&nbsp;&nbsp;<a onclick="javascript:loadClassListFrame('index-list.html');" href="all-index-Y.html">Y</a>&nbsp;&nbsp;<a onclick="javascript:loadClassListFrame('index-list.html');" href="all-index-Z.html">Z</a>&nbsp;&nbsp;</td>
+</tr>
+</table>
+<p></p>
+<center class="copyright"> 
+</center>
+</div>
+</body>
+</html>
+<!-- -->

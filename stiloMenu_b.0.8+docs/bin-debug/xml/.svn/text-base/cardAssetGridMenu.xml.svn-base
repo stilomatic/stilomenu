@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu>
+     <styles>
+       <style classType="it.quidcom.styles.TextStyle" id="textStyle" >
+            <property font="Verdana" size="12" over="0xFFFFFF" out="0xCCCCCC" />
+        </style>
+        <style classType="it.quidcom.styles.BackgroundStyle" id="background" >
+            <property over="0xFFCC00" out="0x000000" />
+        </style>
+    </styles> 
+    <behaviors>
+        <behavior classType="it.quidcom.behavior.AlphaBehavior" id="alphaAnim">
+            <property over="1" out="0.5" time="0.3"/>
+        </behavior>
+        <behavior classType="it.quidcom.behavior.SelectedBehavior" id="selected">
+            <property />
+        </behavior>
+    </behaviors>
+    <item classType="it.quidcom.menu.MenuGrid" x="50" y="50" space="88" module="3" behaviors="selected" >
+    <kids>
+        <item classType="it.quidcom.menu.CardAssetItem" styles="textStyle,background" behaviors="alphaAnim" id="0" img="./imgs/test.jpg" label="MODELLO 01" />
+	    <item classType="it.quidcom.menu.CardAssetItem" styles="textStyle,background" behaviors="alphaAnim" id="1" img="./imgs/test.jpg" label="MODELLO 02" />
+       	<item classType="it.quidcom.menu.CardAssetItem" styles="textStyle,background" behaviors="alphaAnim" id="2" img="./imgs/test.jpg" label="MODELLO 03" />
+       	<item classType="it.quidcom.menu.CardAssetItem" styles="textStyle,background" behaviors="alphaAnim" id="3" img="./imgs/test.jpg" label="MODELLO 04" />
+       	<item classType="it.quidcom.menu.CardAssetItem" styles="textStyle,background" behaviors="alphaAnim" id="4" img="./imgs/test.jpg" label="MODELLO 05" />
+       	<item classType="it.quidcom.menu.CardAssetItem" styles="textStyle,background" behaviors="alphaAnim" id="4" img="./imgs/test.jpg" label="MODELLO 06" />
+       	<item classType="it.quidcom.menu.CardAssetItem" styles="textStyle,background" behaviors="alphaAnim" id="0" img="./imgs/test.jpg" label="MODELLO 07" />
+	    <item classType="it.quidcom.menu.CardAssetItem" styles="textStyle,background" behaviors="alphaAnim" id="1" img="./imgs/test.jpg" label="MODELLO 08" />
+       	<item classType="it.quidcom.menu.CardAssetItem" styles="textStyle,background" behaviors="alphaAnim" id="2" img="./imgs/test.jpg" label="MODELLO 09" />
+       	<item classType="it.quidcom.menu.CardAssetItem" styles="textStyle,background" behaviors="alphaAnim" id="3" img="./imgs/test.jpg" label="MODELLO 10" />
+       	<item classType="it.quidcom.menu.CardAssetItem" styles="textStyle,background" behaviors="alphaAnim" id="4" img="./imgs/test.jpg" label="MODELLO 11" />
+       	<item classType="it.quidcom.menu.CardAssetItem" styles="textStyle,background" behaviors="alphaAnim" id="4" img="./imgs/test.jpg" label="MODELLO 12" />
+    </kids>
+	</item>
+</menu>

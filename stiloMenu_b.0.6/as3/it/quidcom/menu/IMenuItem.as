@@ -1,0 +1,1 @@
+﻿package it.quidcom.menu{		public interface IMenuItem {		function addItem(item:AbstractMenu):void;		function get selected():Boolean;		function set selected(value:Boolean):void;		}	}

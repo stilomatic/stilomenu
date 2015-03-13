@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 21
+/svn/!svn/ver/1/trunk
+END
+.DS_Store
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/12/trunk/.DS_Store
+END
+test.fla
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/12/trunk/test.fla
+END
+test.swf
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/15/trunk/test.swf
+END
+.actionScriptProperties
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/7/trunk/.actionScriptProperties
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/7/trunk/.project
+END
+Index.as
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/15/trunk/Index.as
+END

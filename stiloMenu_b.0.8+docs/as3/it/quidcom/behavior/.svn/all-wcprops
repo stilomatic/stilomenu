@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/8/trunk/as3/it/quidcom/behavior
+END
+LabelToggle.as
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/7/trunk/as3/it/quidcom/behavior/LabelToggle.as
+END
+SelectedBehavior.as
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/7/trunk/as3/it/quidcom/behavior/SelectedBehavior.as
+END
+ChangeTextColor.as
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/8/trunk/as3/it/quidcom/behavior/ChangeTextColor.as
+END
+BehaviorBuilder.as
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/7/trunk/as3/it/quidcom/behavior/BehaviorBuilder.as
+END
+AlphaBehavior.as
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/as3/it/quidcom/behavior/AlphaBehavior.as
+END
+TendToPointBehavior.as
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/7/trunk/as3/it/quidcom/behavior/TendToPointBehavior.as
+END
+IBehavior.as
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/7/trunk/as3/it/quidcom/behavior/IBehavior.as
+END
+DragBehavior.as
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/7/trunk/as3/it/quidcom/behavior/DragBehavior.as
+END
+DragFrictionBehavior.as
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15/trunk/as3/it/quidcom/behavior/DragFrictionBehavior.as
+END
+AbstractBehavior.as
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/7/trunk/as3/it/quidcom/behavior/AbstractBehavior.as
+END
+ZSortBehavior.as
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/7/trunk/as3/it/quidcom/behavior/ZSortBehavior.as
+END
